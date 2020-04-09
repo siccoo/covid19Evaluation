@@ -1,7 +1,5 @@
-const covid19ImpactEstimator = (reportedCases) => {
-    const currentlyInfected = reportedCases * 10;
-    return currentlyInfected = impact.currentlyInfected; 
-};
+const currentlyInfected = (reportedCases) = estimateCurrentlyInfected;
+const infectionsByRequestedTime = (timeToElapse) = estimateProjectedInfections;
 
 
 const covid19ImpactEstimator = (data) => {
